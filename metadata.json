@@ -1,0 +1,6 @@
+{
+  "name": "20 Doces Fit - Protocolo Verão 42",
+  "description": "Mini app com 20 receitas de doces fit saudáveis, guia de equilíbrio 80/20, tabela de adoçantes e lista de compras do Protocolo Verão 42.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
